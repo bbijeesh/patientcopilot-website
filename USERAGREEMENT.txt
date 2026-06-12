@@ -1,0 +1,158 @@
+**USER AGREEMENT & CONSENT FOR PATIENTCOPILOT.IN**
+
+**Effective Date:** 01-april-2026
+
+This User Agreement (“Agreement”) governs the access and use of the PATIENTCOPILOT platform (“Platform”), operated by QBITSOL (“Company”), which enables users to store, manage, and process personal medical information.
+
+---
+
+## 1. DEFINITIONS
+
+* **“User” / “Data Principal”**: Any individual using the Platform.
+* **“Family Member”**: Any individual whose data is added by a User.
+* **“Personal Data”**: Any information that identifies an individual.
+* **“Health Data”**: Medical records, prescriptions, diagnostic reports, bills, consultation records, etc.
+* **“Processing”**: Collection, storage, use, sharing, or analysis of data.
+
+---
+
+## 2. ROLE OF THE COMPANY
+
+The Company acts as a **Data Fiduciary** under the Digital Personal Data Protection Act, 2023 (DPDP Act).
+
+---
+
+## 3. PURPOSE OF DATA COLLECTION
+
+The Platform collects and processes Personal Data strictly for:
+
+* Storage and organization of medical records
+* Providing health insights, reminders, and analytics
+* Facilitating sharing of records with authorized persons
+* Improving user experience and platform functionality
+
+No data will be processed beyond these stated purposes.
+
+---
+
+## 4. USER CONSENT
+
+By using the Platform, you provide **free, specific, informed, unconditional, and unambiguous consent** for processing your data.
+
+You acknowledge:
+
+* You understand what data is collected and why
+* You are voluntarily providing the data
+* You can withdraw consent at any time
+
+(As required under Section 6 of DPDP Act) ()
+
+---
+
+## 5. FAMILY DATA CONSENT
+
+If you upload data of family members:
+
+* You confirm you have **lawful authority or explicit consent** from that individual
+* For minors, **verifiable parental consent** is required
+* You are responsible for accuracy and legality of such data
+
+---
+
+## 6. DATA MINIMIZATION
+
+We collect only data necessary for the stated purpose and do not collect excessive or unrelated information.
+
+---
+
+## 7. USER RIGHTS
+
+You have the right to:
+
+* Access your data
+* Correct inaccurate data
+* Request deletion
+* Withdraw consent
+* Know how your data is used
+
+(As per DPDP Act rights framework) ()
+
+---
+
+## 8. DATA SECURITY
+
+We implement reasonable security safeguards including:
+
+* Encryption (at rest and in transit)
+* Role-based access control
+* Audit logs
+
+---
+
+## 9. DATA SHARING
+
+We do not share your data except:
+
+* With your explicit consent
+* With service providers under strict confidentiality, de-identified
+* If required by law
+
+---
+
+## 10. DATA RETENTION
+
+Data is retained only as long as necessary for the stated purpose or as required by law.
+
+---
+
+## 11. WITHDRAWAL OF CONSENT
+
+You may withdraw consent at any time through the app.
+
+Upon withdrawal:
+
+* Processing will stop
+* Data may be deleted unless legally required to retain
+
+---
+
+## 12. GRIEVANCE REDRESSAL
+
+You may contact our Data Protection Officer:
+
+* Email: [Insert]
+* Address: [Insert]
+
+Complaints may also be escalated to the Data Protection Board of India.
+
+---
+
+## 13. BREACH NOTIFICATION
+
+In case of a data breach, affected users will be notified as required by law.
+
+---
+
+## 14. LIMITATION OF LIABILITY
+
+The Company is not liable for:
+
+* User-provided inaccurate data
+* Unauthorized sharing by users
+* Third-party misuse beyond reasonable control
+
+---
+
+## 15. GOVERNING LAW
+
+This Agreement is governed by the laws of India.
+
+---
+
+## 16. CHANGES TO AGREEMENT
+
+We may update this Agreement. Continued use implies acceptance.
+
+---
+
+**By clicking “I Agree”, you consent to this Agreement and data processing practices.**
