@@ -1,0 +1,144 @@
+**PRIVACY POLICY FOR PATIENTCOPILOT.IN**
+
+**Effective Date:** 01 April 2026
+**Version:** 1.0 (Last updated: 01 April 2026)
+
+This Privacy Policy explains how PATIENTCOPILOT (“Platform”), operated by [Operator Legal Name] (“we”, “us”, “Operator”), collects, uses, stores, shares, and protects your personal information. It forms an integral part of, and should be read together with, our **User Agreement**.
+
+We act as a **Data Fiduciary** under the Digital Personal Data Protection Act, 2023 (DPDP Act) of India.
+
+---
+
+## 1. INFORMATION WE COLLECT
+
+We collect the following categories of data:
+
+* **Account data**: name, email address, phone number, and login credentials.
+* **Health Data (sensitive)**: medical records, prescriptions, diagnostic reports, bills, consultation records, and related documents you upload.
+* **Family Member data**: information you add about family members or dependents.
+* **Usage and device data**: app interactions, device type, operating system, and diagnostic/crash logs used to operate and improve the Platform.
+
+We collect only the data necessary for the purposes described below (data minimization).
+
+---
+
+## 2. HOW WE USE YOUR DATA
+
+We use your data strictly to:
+
+* Store and organize your medical records
+* Provide health insights, reminders, and analytics
+* Facilitate sharing of records with persons you authorize
+* Operate, maintain, secure, and improve the Platform
+* Comply with legal obligations
+
+**We never sell your data. We never use your Health Data for advertising or marketing. We never use your Health Data to train artificial intelligence or machine learning models.**
+
+---
+
+## 3. LEGAL BASIS / CONSENT
+
+We process your Personal Data on the basis of your **free, specific, informed, and unambiguous consent**, as required under the DPDP Act. You may withdraw consent at any time (see Section 8).
+
+---
+
+## 4. HEALTH DATA & SENSITIVE INFORMATION
+
+We treat Health Data as highly sensitive. It is:
+
+* Encrypted in transit and at rest
+* Accessible only on a role-based, need-to-know basis
+* Never sold, never used for advertising, and never used to train AI/ML models
+
+---
+
+## 5. CHILDREN’S DATA
+
+For data relating to minors, we require **verifiable parental or guardian consent** and take reasonable steps to verify it. We do **not** track, profile, behaviorally monitor, or direct targeted advertising at children, and we do not process children’s data in any manner likely to cause harm.
+
+---
+
+## 6. HOW WE SHARE DATA
+
+We do not share your data except:
+
+* With your explicit consent
+* With service providers / sub-processors bound by confidentiality and data-protection obligations equivalent to ours, on a need-to-know and, where feasible, de-identified basis
+* Where required by law
+
+Categories of sub-processors include [cloud hosting provider], [storage provider], and [analytics/diagnostics provider]. *(Update with actual providers.)*
+
+---
+
+## 7. DATA STORAGE & CROSS-BORDER TRANSFER
+
+Your data is primarily stored on infrastructure located in [specify region, e.g. India]. Where data is stored or processed outside India, or by sub-processors, such transfers are carried out in accordance with the DPDP Act and applicable law.
+
+---
+
+## 8. YOUR RIGHTS
+
+Under the DPDP Act, you have the right to:
+
+* Access your data
+* Correct inaccurate or incomplete data
+* Request erasure / deletion of your data
+* Withdraw consent at any time
+* Nominate another individual to exercise your rights in case of death or incapacity
+* Grievance redressal
+
+To exercise these rights, use the in-app controls or contact our Grievance Officer (Section 11).
+
+---
+
+## 9. ACCOUNT & DATA DELETION
+
+You can permanently delete your account and all associated data directly within the app under **Settings → Delete Account**. A web-based deletion request is also available at https://patientcopilot.in/delete-account.
+
+Upon deletion, your data is erased except where retention is required by law.
+
+---
+
+## 10. DATA RETENTION
+
+We retain your data only as long as necessary for the purposes described, or as required by law. When no longer needed, data is securely deleted.
+
+---
+
+## 11. GRIEVANCE OFFICER & CONTACT
+
+For any privacy concerns, requests, or complaints, contact our Data Protection / Grievance Officer:
+
+* Name: [Insert Name]
+* Email: [Insert Email]
+* Address: [Insert Address]
+
+We will respond within the timeframe prescribed under the DPDP Act. You may also escalate complaints to the **Data Protection Board of India**.
+
+---
+
+## 12. DATA BREACH NOTIFICATION
+
+In the event of a personal data breach, we will notify affected users and the **Data Protection Board of India** as required under the DPDP Act and applicable rules.
+
+---
+
+## 13. SECURITY
+
+We implement reasonable security safeguards, which may include encryption at rest and in transit, role-based access control, and audit logging. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+---
+
+## 14. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. For material changes affecting your rights or how your data is processed, we will notify you and, where required, obtain fresh consent. Continued use after non-material changes implies acceptance.
+
+---
+
+## 15. GOVERNING LAW
+
+This Privacy Policy is governed by the laws of India.
+
+---
+
+By using the Platform, you acknowledge that you have read and understood this Privacy Policy.

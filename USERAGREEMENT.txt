@@ -1,8 +1,11 @@
 **USER AGREEMENT & CONSENT FOR PATIENTCOPILOT.IN**
 
-**Effective Date:** 01-april-2026
+**Effective Date:** 01 April 2026
+**Version:** 1.0 (Last updated: 01 April 2026)
 
-This User Agreement (“Agreement”) governs the access and use of the PATIENTCOPILOT platform (“Platform”), operated by QBITSOL (“Company”), which enables users to store, manage, and process personal medical information.
+This User Agreement (“Agreement”) governs the access and use of the PATIENTCOPILOT platform (“Platform”), operated by [Operator Legal Name], contactable at bijeesh@patientcopilot.in (“Operator”), which enables users to store, manage, and process personal medical information.
+
+This Agreement should be read together with our **Privacy Policy**, available at https://patientcopilot.in/privacy, which forms an integral part of this Agreement.
 
 ---
 
@@ -16,13 +19,24 @@ This User Agreement (“Agreement”) governs the access and use of the PATIENTC
 
 ---
 
-## 2. ROLE OF THE COMPANY
+## 2. MEDICAL DISCLAIMER — NOT A MEDICAL DEVICE
 
-The Company acts as a **Data Fiduciary** under the Digital Personal Data Protection Act, 2023 (DPDP Act).
+**The Platform is an information management and organizational tool only.** It does **not** provide medical diagnosis, treatment recommendations, professional healthcare advice, or emergency services, and is **not** a medical device.
+
+* Nothing in the Platform is a substitute for professional medical judgment. Always consult a qualified healthcare professional regarding any medical condition or decision.
+* **The Platform is NOT for medical emergencies.** In a medical emergency, call your local emergency number or contact a healthcare professional immediately.
+* Any health insights, reminders, or analytics provided are informational only and must not be relied upon for clinical decisions.
+* You remain responsible for verifying the accuracy and completeness of any information stored, uploaded, or shared through the Platform.
 
 ---
 
-## 3. PURPOSE OF DATA COLLECTION
+## 3. ROLE OF THE OPERATOR
+
+The Operator acts as a **Data Fiduciary** under the Digital Personal Data Protection Act, 2023 (DPDP Act).
+
+---
+
+## 4. PURPOSE OF DATA COLLECTION
 
 The Platform collects and processes Personal Data strictly for:
 
@@ -33,11 +47,13 @@ The Platform collects and processes Personal Data strictly for:
 
 No data will be processed beyond these stated purposes.
 
+**We never sell your health data, and we never use your health data for advertising or marketing.** Health Data is never used to train artificial intelligence or machine learning models.
+
 ---
 
-## 4. USER CONSENT
+## 5. USER CONSENT
 
-By using the Platform, you provide **free, specific, informed, unconditional, and unambiguous consent** for processing your data.
+By using the Platform, you provide **free, specific, informed, unconditional, and unambiguous consent** for processing your data, as required under Section 6 of the DPDP Act.
 
 You acknowledge:
 
@@ -45,67 +61,84 @@ You acknowledge:
 * You are voluntarily providing the data
 * You can withdraw consent at any time
 
-(As required under Section 6 of DPDP Act) ()
-
 ---
 
-## 5. FAMILY DATA CONSENT
+## 6. FAMILY DATA CONSENT
 
 If you upload data of family members:
 
 * You confirm you have **lawful authority or explicit consent** from that individual
-* For minors, **verifiable parental consent** is required
-* You are responsible for accuracy and legality of such data
+* You are responsible for the accuracy and legality of such data
+
+For minors, **verifiable parental or guardian consent is required**, and the Operator will take reasonable steps to verify such consent in accordance with the DPDP Act. In relation to children’s data, the Operator does **not** undertake tracking, behavioral monitoring, profiling, or targeted advertising directed at children, and will not process children’s data in any manner likely to cause harm.
 
 ---
 
-## 6. DATA MINIMIZATION
+## 7. DATA MINIMIZATION
 
 We collect only data necessary for the stated purpose and do not collect excessive or unrelated information.
 
 ---
 
-## 7. USER RIGHTS
+## 8. USER RIGHTS
 
 You have the right to:
 
 * Access your data
-* Correct inaccurate data
-* Request deletion
+* Correct inaccurate or incomplete data
+* Request erasure / deletion
 * Withdraw consent
 * Know how your data is used
+* Nominate another individual to exercise your rights in the event of death or incapacity
+* Grievance redressal (see Section 13)
 
-(As per DPDP Act rights framework) ()
+These rights are provided in accordance with the DPDP Act rights framework.
 
 ---
 
-## 8. DATA SECURITY
+## 9. ACCOUNT & DATA DELETION
 
-We implement reasonable security safeguards including:
+You can permanently delete your account and all associated Personal Data and Health Data directly within the app under **Settings → Delete Account**.
 
-* Encryption (at rest and in transit)
+A web-based account and data deletion request is also available at https://patientcopilot.in/delete-account.
+
+Upon deletion, your data will be erased except where retention is required by applicable law. Where data must be retained for legal reasons, it will be securely stored and processed only for that purpose.
+
+---
+
+## 10. DATA SECURITY
+
+We implement reasonable security safeguards, which may include:
+
+* Encryption at rest and in transit
 * Role-based access control
-* Audit logs
+* Audit logging
+
+No method of transmission or storage is completely secure, and we cannot guarantee absolute security.
 
 ---
 
-## 9. DATA SHARING
+## 11. DATA SHARING, SUB-PROCESSORS & CROSS-BORDER TRANSFER
 
 We do not share your data except:
 
 * With your explicit consent
-* With service providers under strict confidentiality, de-identified
-* If required by law
+* With service providers / sub-processors who are bound by confidentiality and data-protection obligations equivalent to those in this Agreement, on a need-to-know and, where feasible, de-identified basis
+* Where required by law
+
+Where Personal Data or Health Data is stored or processed on infrastructure located outside India, or processed by sub-processors, such transfers are carried out in accordance with the DPDP Act and applicable law. Details of data storage location and categories of sub-processors are described in our Privacy Policy.
+
+We **never** sell your data and **never** share Health Data with third parties for advertising purposes.
 
 ---
 
-## 10. DATA RETENTION
+## 12. DATA RETENTION
 
 Data is retained only as long as necessary for the stated purpose or as required by law.
 
 ---
 
-## 11. WITHDRAWAL OF CONSENT
+## 13. WITHDRAWAL OF CONSENT
 
 You may withdraw consent at any time through the app.
 
@@ -114,45 +147,66 @@ Upon withdrawal:
 * Processing will stop
 * Data may be deleted unless legally required to retain
 
----
-
-## 12. GRIEVANCE REDRESSAL
-
-You may contact our Data Protection Officer:
-
-* Email: [Insert]
-* Address: [Insert]
-
-Complaints may also be escalated to the Data Protection Board of India.
+The withdrawal of consent does not affect the lawfulness of processing carried out before the withdrawal.
 
 ---
 
-## 13. BREACH NOTIFICATION
+## 14. GRIEVANCE REDRESSAL
 
-In case of a data breach, affected users will be notified as required by law.
+You may contact our Data Protection Officer / Grievance Officer:
 
----
+* Name: [Insert Name]
+* Email: [Insert Email]
+* Address: [Insert Address]
 
-## 14. LIMITATION OF LIABILITY
-
-The Company is not liable for:
-
-* User-provided inaccurate data
-* Unauthorized sharing by users
-* Third-party misuse beyond reasonable control
+We will acknowledge and respond to grievances within the timeframe prescribed under the DPDP Act. Complaints may also be escalated to the **Data Protection Board of India**.
 
 ---
 
-## 15. GOVERNING LAW
+## 15. BREACH NOTIFICATION
 
-This Agreement is governed by the laws of India.
-
----
-
-## 16. CHANGES TO AGREEMENT
-
-We may update this Agreement. Continued use implies acceptance.
+In the case of a personal data breach, the Operator will notify the affected users and the **Data Protection Board of India** as required under the DPDP Act and applicable rules.
 
 ---
 
-**By clicking “I Agree”, you consent to this Agreement and data processing practices.**
+## 16. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Operator is not liable for:
+
+* User-provided inaccurate or incomplete data
+* Unauthorized sharing of data by users
+* Third-party misuse beyond the Operator’s reasonable control
+
+Nothing in this Agreement excludes or limits liability that cannot be excluded or limited under applicable law, including liability arising from the Operator’s own negligence or failure to implement legally required safeguards.
+
+---
+
+## 17. GOVERNING LAW
+
+This Agreement is governed by the laws of India, and the courts of India shall have jurisdiction.
+
+---
+
+## 18. CHANGES TO AGREEMENT
+
+We may update this Agreement from time to time. For **material** changes — including changes affecting your rights or how your data is processed — we will notify you and, where required by law, obtain your fresh consent before such changes take effect. For non-material changes, continued use of the Platform implies acceptance.
+
+---
+
+## 19. BETA TESTING NOTICE
+
+PATIENTCOPILOT is currently being provided as a beta (pre-release) service for testing, evaluation, and product improvement purposes. By accessing or using the Platform, you acknowledge and agree that:
+
+* The Platform is under active development and testing.
+* Features, functionality, user interfaces, and services may change, be modified, suspended, or discontinued without prior notice.
+* The Platform may contain defects, errors, inaccuracies, or interruptions that could affect the availability, integrity, or accessibility of information stored within the Platform.
+* While the Operator implements reasonable security measures, users should maintain independent copies of important medical records and documents and should not rely solely on the Platform as their exclusive record repository during the beta testing period.
+* Feedback, suggestions, bug reports, and usability observations provided by users during the beta testing period may be used by the Operator to improve the Platform and related services.
+
+Participation in the beta program is voluntary. Users who do not agree with the risks and limitations associated with beta software should discontinue use of the Platform.
+
+---
+
+By creating an account, uploading information, or otherwise using the Platform, you acknowledge that you have read, understood, and agreed to the terms of this Agreement and the Privacy Policy.
+
+**By clicking “I Agree”, you consent to this Agreement and our data processing practices.**
