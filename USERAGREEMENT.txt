@@ -42,6 +42,7 @@ The Platform collects and processes Personal Data strictly for:
 
 * Storage and organization of medical records
 * Providing health insights, reminders, and analytics
+* Generating AI-based health insights and conversational responses (via pseudonymized data processed by our AI service provider)
 * Facilitating sharing of records with authorized persons
 * Improving user experience and platform functionality
 
@@ -124,6 +125,7 @@ We do not share your data except:
 
 * With your explicit consent
 * With service providers / sub-processors who are bound by confidentiality and data-protection obligations equivalent to those in this Agreement, on a need-to-know and, where feasible, de-identified basis
+* With our AI service providers (Google Vertex AI/Gemini, OpenAI, Anthropic Claude, and Sarvam AI), acting as sub-processors, to process pseudonymized Health Data solely to generate AI-based insights and chat responses. To reduce reliance on any single provider, Health Data is algorithmically split into smaller chunks before AI processing, and different chunks of the same record may be routed to different providers; no single provider receives your complete, reassembled health record. These providers are contractually prohibited from using this data to train their models and apply confidentiality and security safeguards at least equivalent to those in this Agreement.
 * Where required by law
 
 Where Personal Data or Health Data is stored or processed on infrastructure located outside India, or processed by sub-processors, such transfers are carried out in accordance with the DPDP Act and applicable law. Details of data storage location and categories of sub-processors are described in our Privacy Policy.
