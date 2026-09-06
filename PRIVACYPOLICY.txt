@@ -12,20 +12,6 @@ We act as a Data Fiduciary under the Digital Personal Data Protection Act,
 2023 (DPDP Act) of India.
 
 --------------------------------------------------------------------------
-IN SHORT
---------------------------------------------------------------------------
-- We store your medical records, documents, and account details so you (and
-  people you choose to share with) can access them.
-- We never sell your data, and never use your Health Data for advertising,
-  marketing, or to train AI models.
-- Before any of your Health Data is sent to an AI provider to answer a
-  question, we strip out direct identifiers like your name and replace them
-  with a pseudonym.
-- You can permanently delete your account and data at any time, in the app
-  or on the web.
-- Full detail on every point above is in the numbered sections below.
-
---------------------------------------------------------------------------
 1. INFORMATION WE COLLECT
 --------------------------------------------------------------------------
 
