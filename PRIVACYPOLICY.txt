@@ -1,152 +1,237 @@
-**PRIVACY POLICY FOR PATIENTCOPILOT.IN**
+PRIVACY POLICY FOR PATIENTCOPILOT.IN
 
-**Effective Date:** 01 April 2026
-**Version:** 1.0 (Last updated: 01 April 2026)
+Effective Date: 01 April 2026
+Version: 1.1 (Last updated: 07 September 2026)
 
-This Privacy Policy explains how PATIENTCOPILOT (“Platform”), operated by Bijeesh Balakrishnan (“we”, “us”, “Operator”), collects, uses, stores, shares, and protects your personal information. It forms an integral part of, and should be read together with, our **User Agreement**.
+This Privacy Policy explains how PatientCopilot ("Platform"), operated by
+Bijeesh Balakrishnan ("we", "us", "Operator"), collects, uses, stores, shares,
+and protects your personal information. It forms an integral part of, and
+should be read together with, our User Agreement.
 
-We act as a **Data Fiduciary** under the Digital Personal Data Protection Act, 2023 (DPDP Act) of India.
+We act as a Data Fiduciary under the Digital Personal Data Protection Act,
+2023 (DPDP Act) of India.
 
----
+--------------------------------------------------------------------------
+IN SHORT
+--------------------------------------------------------------------------
+- We store your medical records, documents, and account details so you (and
+  people you choose to share with) can access them.
+- We never sell your data, and never use your Health Data for advertising,
+  marketing, or to train AI models.
+- Before any of your Health Data is sent to an AI provider to answer a
+  question, we strip out direct identifiers like your name and replace them
+  with a pseudonym.
+- You can permanently delete your account and data at any time, in the app
+  or on the web.
+- Full detail on every point above is in the numbered sections below.
 
-## 1. INFORMATION WE COLLECT
+--------------------------------------------------------------------------
+1. INFORMATION WE COLLECT
+--------------------------------------------------------------------------
 
-We collect the following categories of data:
+Account data
+  Name, email address, phone number, and login credentials.
 
-* **Account data**: name, email address, phone number, and login credentials.
-* **Health Data (sensitive)**: medical records, prescriptions, diagnostic reports, bills, consultation records, and related documents you upload.
-* **Family Member data**: information you add about family members or dependents.
-* **Usage and device data**: app interactions, device type, operating system, and diagnostic/crash logs used to operate and improve the Platform.
+Health Data (sensitive)
+  Medical records, prescriptions, diagnostic reports, bills, consultation
+  records, and related documents you upload.
 
-We collect only the data necessary for the purposes described below (data minimization).
+Photos you capture or upload
+  Images of documents you scan or attach, taken with your camera or chosen
+  from your photo library.
 
----
+Voice recordings
+  Voice notes you record for appointments or reminders, if you use that
+  feature.
 
-## 2. HOW WE USE YOUR DATA
+Family member data
+  Information you add about family members or other people in your care.
+
+Usage and device data
+  App interactions, device type and operating system, a push-notification
+  token and device identifier (so we can deliver notifications to your
+  device), and diagnostic/crash reports generated when something goes
+  wrong in the app. These crash reports are handled entirely by our own
+  backend — we do not use a third-party analytics or crash-reporting
+  vendor.
+
+We collect only the data necessary for the purposes described below (data
+minimization).
+
+--------------------------------------------------------------------------
+2. HOW WE USE YOUR DATA
+--------------------------------------------------------------------------
 
 We use your data strictly to:
 
-* Store and organize your extracted and deidentified medical records
-* Provide health insights, reminders, and analytics
-* Facilitate sharing of records with persons you authorize
-* Operate, maintain, secure, and improve the Platform
-* Comply with legal obligations
+- Store and organize your extracted and de-identified medical records
+- Provide health insights, reminders, and analytics
+- Facilitate sharing of records with people you authorize
+- Operate, maintain, secure, and improve the Platform
+- Comply with legal obligations
 
-To generate health insights, reminders, and conversational chat responses, we use artificial intelligence models provided by third-party AI service providers (Google Vertex AI/Gemini, OpenAI, Anthropic Claude, and Sarvam AI). Before any Health Data is sent to these models, direct identifiers (such as your name and contact details) are removed or replaced with a pseudonymous reference. These providers do not use this data to train their own models and process it solely to generate the response you requested.
+AI processing. To generate health insights and conversational chat
+responses, we use AI models from third-party providers, currently Google
+Vertex AI/Gemini, OpenAI, and Anthropic Claude. Before any Health Data is
+sent to any of these providers, direct identifiers — your name and your
+family members' names — are replaced with a stable pseudonym; the model
+never sees your real identity, and the real name is restored only in the
+answer shown back to you. For reliability, requests may be routed to
+whichever of these providers is available at that moment, rather than
+depending on a single vendor. These providers do not use this data to
+train their own models and process it solely to generate the response you
+requested.
 
-To further reduce the risk of any single AI provider receiving a complete picture of your health record, pseudonymized Health Data is algorithmically split into smaller segments ("chunks") before AI processing. Different chunks of the same record may be routed to different AI providers, and the individual results are recombined by our systems to produce your final insight or chat response. No single third-party AI provider receives your complete, reassembled health record.
+We never sell your data. We never use your Health Data for advertising or
+marketing. We never use your Health Data to train artificial intelligence
+or machine learning models.
 
-**We never sell your data. We never use your Health Data for advertising or marketing. We never use your Health Data to train artificial intelligence or machine learning models.**
+--------------------------------------------------------------------------
+3. LEGAL BASIS / CONSENT
+--------------------------------------------------------------------------
 
----
+We process your Personal Data on the basis of your free, specific,
+informed, and unambiguous consent, as required under the DPDP Act. You may
+withdraw consent at any time (see Section 8).
 
-## 3. LEGAL BASIS / CONSENT
-
-We process your Personal Data on the basis of your **free, specific, informed, and unambiguous consent**, as required under the DPDP Act. You may withdraw consent at any time (see Section 8).
-
----
-
-## 4. HEALTH DATA & SENSITIVE INFORMATION
+--------------------------------------------------------------------------
+4. HEALTH DATA & SENSITIVE INFORMATION
+--------------------------------------------------------------------------
 
 We treat Health Data as highly sensitive. It is:
 
-* Encrypted in transit and at rest
-* Accessible only on a role-based, need-to-know basis
-* Never sold, never used for advertising, and never used to train AI/ML models
-* Chunked and distributed across multiple AI providers when processed by AI, so no single provider receives a complete health record
+- Encrypted in transit and at rest
+- Accessible only on a role-based, need-to-know basis
+- Never sold, never used for advertising, and never used to train AI/ML
+  models
+- Pseudonymized (direct identifiers removed or replaced) before being sent
+  to any AI provider for processing
 
----
+--------------------------------------------------------------------------
+5. CHILDREN'S DATA
+--------------------------------------------------------------------------
 
-## 5. CHILDREN’S DATA
+For data relating to minors, we require verifiable parental or guardian
+consent and take reasonable steps to verify it. We do not track, profile,
+behaviorally monitor, or direct targeted advertising at children, and we
+do not process children's data in any manner likely to cause harm.
 
-For data relating to minors, we require **verifiable parental or guardian consent** and take reasonable steps to verify it. We do **not** track, profile, behaviorally monitor, or direct targeted advertising at children, and we do not process children’s data in any manner likely to cause harm.
-
----
-
-## 6. HOW WE SHARE DATA
+--------------------------------------------------------------------------
+6. HOW WE SHARE DATA
+--------------------------------------------------------------------------
 
 We do not share your data except:
 
-* With your explicit consent
-* With service providers / sub-processors bound by confidentiality and data-protection obligations equivalent to ours, on a need-to-know and, where feasible, de-identified basis
-* With our AI service providers (Google Vertex AI/Gemini, OpenAI, Anthropic Claude, and Sarvam AI), to process pseudonymized, algorithmically chunked Health Data solely to generate AI-based insights and chat responses. Each provider receives only a portion of a given record, not the complete record, and is contractually prohibited from using this data to train its models.
-* Where required by law
+- With your explicit consent
+- With service providers / sub-processors bound by confidentiality and
+  data-protection obligations equivalent to ours, on a need-to-know and,
+  where feasible, de-identified basis
+- With our AI service providers (Google Vertex AI/Gemini, OpenAI, and
+  Anthropic Claude), to process pseudonymized Health Data solely to
+  generate AI-based insights and chat responses. These providers are
+  contractually prohibited from using this data to train their models.
+- Where required by law
 
-Categories of sub-processors include Google Cloud Run, Google Cloud Storage, Google Vertex AI, Sarvam AI, OpenAI, Anthropic Claude, and Digital Ocean Droplet.
+Categories of sub-processors include Google Cloud Run, Google Cloud
+Storage, Google Vertex AI, OpenAI, and Anthropic Claude.
 
----
+--------------------------------------------------------------------------
+7. DATA STORAGE & CROSS-BORDER TRANSFER
+--------------------------------------------------------------------------
 
-## 7. DATA STORAGE & CROSS-BORDER TRANSFER
+Your data is primarily stored on infrastructure located in India (Mumbai).
+Where data is stored or processed outside India, or by sub-processors,
+such transfers are carried out in accordance with the DPDP Act and
+applicable law.
 
-Your data is primarily stored on infrastructure located in India/ Mumbai, Delhi . Where data is stored or processed outside India, or by sub-processors, such transfers are carried out in accordance with the DPDP Act and applicable law.
+Some of our AI service providers (including OpenAI and Anthropic Claude)
+may process pseudonymized data on infrastructure located outside India.
+Only pseudonymized Health Data — with direct identifiers removed — is
+transmitted to these providers, and such transfers are carried out in
+accordance with the DPDP Act and applicable law.
 
-Some of our AI service providers (including OpenAI and Anthropic Claude) may process pseudonymized data on infrastructure located outside India. Only pseudonymized Health Data — with direct identifiers removed — is transmitted to these providers, and such transfers are carried out in accordance with the DPDP Act and applicable law.
-
----
-
-## 8. YOUR RIGHTS
+--------------------------------------------------------------------------
+8. YOUR RIGHTS
+--------------------------------------------------------------------------
 
 Under the DPDP Act, you have the right to:
 
-* Access your data
-* Correct inaccurate or incomplete data
-* Request erasure / deletion of your data
-* Withdraw consent at any time
-* Nominate another individual to exercise your rights in case of death or incapacity
-* Grievance redressal
+- Access your data
+- Correct inaccurate or incomplete data
+- Request erasure / deletion of your data
+- Withdraw consent at any time
+- Nominate another individual to exercise your rights in case of death or
+  incapacity
+- Grievance redressal
 
-To exercise these rights, use the in-app controls or contact our Grievance Officer (Section 11).
+To exercise these rights, use the in-app controls or contact our
+Grievance Officer (Section 11).
 
----
+--------------------------------------------------------------------------
+9. ACCOUNT & DATA DELETION
+--------------------------------------------------------------------------
 
-## 9. ACCOUNT & DATA DELETION
+You can permanently delete your account and all associated data directly
+within the app under Settings -> Delete Account. A web-based deletion
+request is also available at https://patientcopilot.in/delete-account.
 
-You can permanently delete your account and all associated data directly within the app under **Settings → Delete Account**. A web-based deletion request is also available at https://patientcopilot.in/delete-account.
+Upon deletion, your data is erased except where retention is required by
+law.
 
-Upon deletion, your data is erased except where retention is required by law.
+--------------------------------------------------------------------------
+10. DATA RETENTION
+--------------------------------------------------------------------------
 
----
+We retain your data only as long as necessary for the purposes described,
+or as required by law. When no longer needed, data is securely deleted.
 
-## 10. DATA RETENTION
+--------------------------------------------------------------------------
+11. GRIEVANCE OFFICER & CONTACT
+--------------------------------------------------------------------------
 
-We retain your data only as long as necessary for the purposes described, or as required by law. When no longer needed, data is securely deleted.
+For any privacy concerns, requests, or complaints, contact our Data
+Protection / Grievance Officer:
 
----
+  Name:    [Insert Name]
+  Email:   [Insert Email]
+  Address: [Insert Address]
 
-## 11. GRIEVANCE OFFICER & CONTACT
+We will respond within the timeframe prescribed under the DPDP Act. You
+may also escalate complaints to the Data Protection Board of India.
 
-For any privacy concerns, requests, or complaints, contact our Data Protection / Grievance Officer:
+--------------------------------------------------------------------------
+12. DATA BREACH NOTIFICATION
+--------------------------------------------------------------------------
 
-* Name: [Insert Name]
-* Email: [Insert Email]
-* Address: [Insert Address]
+In the event of a personal data breach, we will notify affected users and
+the Data Protection Board of India as required under the DPDP Act and
+applicable rules.
 
-We will respond within the timeframe prescribed under the DPDP Act. You may also escalate complaints to the **Data Protection Board of India**.
+--------------------------------------------------------------------------
+13. SECURITY
+--------------------------------------------------------------------------
 
----
+We implement reasonable security safeguards, which may include encryption
+at rest and in transit, role-based access control, and audit logging.
+However, no method of transmission or storage is completely secure, and we
+cannot guarantee absolute security.
 
-## 12. DATA BREACH NOTIFICATION
+--------------------------------------------------------------------------
+14. CHANGES TO THIS POLICY
+--------------------------------------------------------------------------
 
-In the event of a personal data breach, we will notify affected users and the **Data Protection Board of India** as required under the DPDP Act and applicable rules.
+We may update this Privacy Policy from time to time. For material changes
+affecting your rights or how your data is processed, we will notify you
+and, where required, obtain fresh consent. Continued use after
+non-material changes implies acceptance.
 
----
-
-## 13. SECURITY
-
-We implement reasonable security safeguards, which may include encryption at rest and in transit, role-based access control, and audit logging. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
-
----
-
-## 14. CHANGES TO THIS POLICY
-
-We may update this Privacy Policy from time to time. For material changes affecting your rights or how your data is processed, we will notify you and, where required, obtain fresh consent. Continued use after non-material changes implies acceptance.
-
----
-
-## 15. GOVERNING LAW
+--------------------------------------------------------------------------
+15. GOVERNING LAW
+--------------------------------------------------------------------------
 
 This Privacy Policy is governed by the laws of India.
 
----
+--------------------------------------------------------------------------
 
-By using the Platform, you acknowledge that you have read and understood this Privacy Policy.
+By using the Platform, you acknowledge that you have read and understood
+this Privacy Policy.
